@@ -14,7 +14,7 @@
 ## Установка и запуск
 
 1. Клонируйте репозиторий:
-   git clone https://github.com/ваш_репозиторий.git
+   git clone https://github.com/ttwago/PICASSO
 
 2. Перейдите в директорию проекта:
     cd ваш_проект
